@@ -1,0 +1,65 @@
+{
+  "podcasts": [
+    {
+      "name": "Latent Space",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    },
+    {
+      "name": "Training Data",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    },
+    {
+      "name": "No Priors",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    },
+    {
+      "name": "Unsupervised Learning",
+      "url": "https://www.youtube.com/@RedpointAI"
+    },
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+    },
+    {
+      "name": "AI & I by Every",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  ],
+  "blogs": [
+    {
+      "name": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering"
+    },
+    {
+      "name": "Claude Blog",
+      "url": "https://claude.com/blog"
+    }
+  ],
+  "x_accounts": [
+    { "name": "Andrej Karpathy", "handle": "karpathy" },
+    { "name": "Swyx", "handle": "swyx" },
+    { "name": "Josh Woodward", "handle": "joshwoodward" },
+    { "name": "Kevin Weil", "handle": "kevinweil" },
+    { "name": "Peter Yang", "handle": "petergyang" },
+    { "name": "Nan Yu", "handle": "thenanyu" },
+    { "name": "Madhu Guru", "handle": "realmadhuguru" },
+    { "name": "Amanda Askell", "handle": "AmandaAskell" },
+    { "name": "Cat Wu", "handle": "_catwu" },
+    { "name": "Thariq", "handle": "trq212" },
+    { "name": "Google Labs", "handle": "GoogleLabs" },
+    { "name": "Amjad Masad", "handle": "amasad" },
+    { "name": "Guillermo Rauch", "handle": "rauchg" },
+    { "name": "Alex Albert", "handle": "alexalbert__" },
+    { "name": "Aaron Levie", "handle": "levie" },
+    { "name": "Ryo Lu", "handle": "ryolu_" },
+    { "name": "Garry Tan", "handle": "garrytan" },
+    { "name": "Matt Turck", "handle": "mattturck" },
+    { "name": "Zara Zhang", "handle": "zarazhangrui" },
+    { "name": "Nikunj Kothari", "handle": "nikunj" },
+    { "name": "Peter Steinberger", "handle": "steipete" },
+    { "name": "Dan Shipper", "handle": "danshipper" },
+    { "name": "Aditya Agarwal", "handle": "adityaag" },
+    { "name": "Sam Altman", "handle": "sama" },
+    { "name": "Claude", "handle": "claudeai" }
+  ]
+}
